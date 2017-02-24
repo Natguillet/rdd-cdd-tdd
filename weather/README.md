@@ -19,4 +19,4 @@ You need to install these packages to use the CLI.
 ```sh
 ❯ node cli.j Paris France C
 ```
-![alt tag](img/Capture.png)
+![alt tag](http://imgur.com/a/cveVh)
