@@ -17,5 +17,6 @@ You need to install these packages to use the CLI.
 ```
 ## Code Example
 ```sh
-❯ node cli.j weather Paris France C
+❯ node cli.j Paris France C
 ```
+![alt tag](img/Capture.png)
