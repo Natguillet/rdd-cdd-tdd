@@ -1,4 +1,9 @@
-# cli-weather
+# Cli-weather
+
+- [Introduction](#introduction)
+- [Pre-install](#Pre-install)
+- [Code Example](#Code Example)
+- [Licence](#licence)
 
 ## Introduction
 
@@ -17,6 +22,10 @@ You need to install these packages to use the CLI.
 ```
 ## Code Example
 ```sh
-❯ node cli.j Paris France C
+❯ node cli.js Paris France C
 ```
 ![alt tag](http://i.imgur.com/jkywVZz.png)
+
+## Licence
+
+[Uncopyrighted](http://zenhabits.net/uncopyright/)

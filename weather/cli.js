@@ -25,6 +25,11 @@ const cli = meow({
 	]
 });
 
+/**
+ * Each temperature is in fahrenheit so we convert to Celsus.
+ * @param {int} temp - The temperature of the city
+ *
+ */
 function _toCelcius(temp) {
 	return Math.round(((temp - 32) * 5) / 9);
 }

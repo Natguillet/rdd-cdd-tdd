@@ -2,7 +2,11 @@
 
 const YQL = require('yql');
 const _ = require('lodash');
-
+/**
+ * Choose the SQL query
+ * @param {string[]} opts - Cytie and country
+ *
+ */
 module.exports = (opts, callback) => {
 	opts = opts || [];
 
